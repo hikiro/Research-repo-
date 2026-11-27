@@ -7,7 +7,7 @@ This file connects the research repository to the active animation-engine invest
 
 ## Source repository
 
-[stopmo-studio](https://github.com/hikiro/stopmo-studio)
+The local source repository is named `stopmo-studio`. Its Git remote URL has not yet been verified, so no remote link is asserted here.
 
 Local working root reported in the handover:
 
