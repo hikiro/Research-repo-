@@ -4,8 +4,8 @@ A versioned, searchable knowledge base for animation research, character acting,
 
 This repository is the research and decision record. It is separate from the executable animation-engine repository:
 
-- Production code: [stopmo-studio](https://github.com/hikiro/stopmo-studio)
-- Research and reusable knowledge: this repository
+- Production code: the local `stopmo-studio` source repository (its remote URL has not yet been verified).
+- Research and reusable knowledge: this repository.
 
 ## Working principles
 
